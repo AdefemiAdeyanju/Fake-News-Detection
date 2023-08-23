@@ -1,9 +1,6 @@
 # Fake-News-Detection
 An end-to-end machine learning model used in detecting fake news
 
-# Spam-Detection
-A machine learning algorithm used to test the ingenuity of text messages messages. 
-
 ![Vehicle-Type-Prediction](image.avif)
 
 Predicting Text messages genuinity using machine learning models.
