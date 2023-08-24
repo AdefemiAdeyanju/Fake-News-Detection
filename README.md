@@ -1,8 +1,6 @@
 # Fake-News-Detection
 An end-to-end machine learning model used in detecting fake news
 
-![Vehicle-Type-Prediction](image.avif)
-
 Predicting news genuinity using machine learning models.
 
 ## Table of Contents
