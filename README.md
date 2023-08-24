@@ -3,7 +3,7 @@ An end-to-end machine learning model used in detecting fake news
 
 ![Vehicle-Type-Prediction](image.avif)
 
-Predicting Text messages genuinity using machine learning models.
+Predicting news genuinity using machine learning models.
 
 ## Table of Contents
 - [Installation](#installation)
