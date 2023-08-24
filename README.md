@@ -21,11 +21,12 @@ Install the required packages from the `requirements.txt` file:
 ## Project Structure
 The project is organized as follows:
 
-- `Spam.csv/`: Contains raw data files.
+- `fake.csv/`: Contains fake news data files.
+- `true.csv/`: Contains real news data files.
 - `Spam Detection.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
 - `model.pkl/`: Stores trained machine learning models for type prediction.
-- `fast.py/app.py`: A Python script to make predictions using trained models.
-- - `vectorizer.pkl`: Tfidfvectorizer model.
+- `fast.py`: A Python script to make predictions using trained models.
+- `vectorizer.pkl`: Tfidfvectorizer model.
 
 ## Data Source and Preprocessing
 - The dataset is obtained from [Kaggle](https://www.kaggle.com/dataset).
