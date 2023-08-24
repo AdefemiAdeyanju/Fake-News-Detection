@@ -23,7 +23,7 @@ The project is organized as follows:
 
 - `fake.csv/`: Contains fake news data files.
 - `true.csv/`: Contains real news data files.
-- `Spam Detection.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
+- `FakeNewsDetection.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
 - `model.pkl/`: Stores trained machine learning models for type prediction.
 - `fast.py`: A Python script to make predictions using trained models.
 - `vectorizer.pkl`: Tfidfvectorizer model.
