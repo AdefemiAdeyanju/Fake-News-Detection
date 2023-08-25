@@ -9,7 +9,6 @@ Predicting news genuinity using machine learning models.
 - [Data Source and Preprocessing](#data-source-and-preprocessing)
 - [Model Details](#model-details)
 - [Evaluation Metrics](#evaluation-metrics)
-- [Results and Visualizations](#results-and-visualizations)
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
@@ -22,7 +21,7 @@ The project is organized as follows:
 - `fake.csv/`: Contains fake news data files.
 - `true.csv/`: Contains real news data files.
 - `FakeNewsDetection.ipynb/`: Holds Jupyter notebooks used for data analysis and exploration.
-- `model.pkl/`: Stores trained machine learning models for type prediction.
+- `FakeNewsPrediction.pkl/`: Stores trained machine learning models for type prediction.
 - `fast.py`: A Python script to make predictions using trained models.
 - `vectorizer.pkl`: Tfidfvectorizer model.
 
